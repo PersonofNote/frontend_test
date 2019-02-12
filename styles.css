@@ -89,6 +89,8 @@ h3 {
 
 body {
   background-color: var(--pinkpurple);
+  background-image: url("./assets/bkg-pattern.png");
+  /*background-image: url("./assets/bkg-pattern.png"),linear-gradient(358deg, #b00391, #ff5237 43%, var(--sapphire));*/
 }
 
 .site-header {
