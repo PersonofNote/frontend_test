@@ -98,8 +98,26 @@ body {
 #hero {
   height: 60%;
   width: 85%;
-  margin: auto;
+  margin-left: 8rem;
+  margin-right: 8rem;
   background-color: var(--pale-grey);
+  padding: 0px;
+}
+
+.jumbotron .side-panel {
+  background-color: var(--sapphire);
+  width: 10rem;
+  margin: none;
+}
+
+.list-group {
+  margin: 2rem;
+  width: 80%;
+}
+
+.event {
+  display: inline-block;
+  margin: 1rem;
 }
 
 #social-footer {
