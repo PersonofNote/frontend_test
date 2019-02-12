@@ -127,15 +127,6 @@ body {
   margin: auto;
 }
 
-.nav-link[aria-selected="true"] {
-  background-color: var(--bright-teal);
-}
-
-.nav-link[aria-selected="false"] {
-  background-color: none;
-}
-
-
 
 .list-group {
   margin: 2rem;
