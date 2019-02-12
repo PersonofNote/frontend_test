@@ -12,3 +12,28 @@ Plan:
 		-Each card has a colored date section, a text with an <h(?)> and a <p>, and a button-like div (but not a button because Bootstrap applies styling) that links to somewhere else.
 	-Social links footer:
 		-Semi-transparent div with inline icons.
+
+
+
+
+Left undone:
+
+-General:
+	-Make everything 30% smaller so it all fits on one page
+	-Fix responsiveness between tabs
+
+-Tabs:
+	-Fix background color of the active tab's attribute
+
+-Articles:
+	-Add media queries that replace images with the highest quality/performance ratio
+
+-Footer:
+	-Properly spread content to fill remaining space
+	-Get real images
+
+-General cleanup and tidiness, those are the major pieces though.
+
+Notes:
+
+I didn't need Javascript beyond Bootstrap's built-in functions for this project, and I elected not to spend time writing custom toggle functions or the like.

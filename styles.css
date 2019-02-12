@@ -127,13 +127,15 @@ body {
   margin: auto;
 }
 
-.nav-link :active {
+.nav-link[aria-selected="true"] {
   background-color: var(--bright-teal);
 }
 
-.nav-link :hover {
-  background-color: var(--bright-teal);
+.nav-link[aria-selected="false"] {
+  background-color: none;
 }
+
+
 
 .list-group {
   margin: 2rem;
@@ -221,4 +223,12 @@ margin-left: 40%;
 
 .button a {
   text-decoration: none;
+}
+
+.social-icon {
+  height: 64;
+  width: 64;
+  display: inline-block;
+  border: 1px solid gray;
+  margin: 0.3rem;
 }
