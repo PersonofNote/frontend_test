@@ -1,0 +1,14 @@
+Plan:
+
+-Use Bootstrap to do the heavy lifting.
+-Header:
+	-Left-justified <H1>, with a </p> under
+-Utilize the jumbotron for the center content
+	-Utilize the tab-switching logic built in to Bootstrap to swap between sections
+	-Article section:
+		-Each article is a horizontal div. Inside each is a picture and a text area with an <h(?)> and a <p>
+	-Events section:
+		-Each event is a vertical card. (Bootstrap has built-in cards that are close to this already.)
+		-Each card has a colored date section, a text with an <h(?)> and a <p>, and a button-like div (but not a button because Bootstrap applies styling) that links to somewhere else.
+	-Social links footer:
+		-Semi-transparent div with inline icons.
