@@ -84,3 +84,30 @@ h3 {
   text-align: left;
   color: #434a4c;
 }
+
+body {
+  background-color: var(--pinkpurple);
+}
+
+.site-header {
+  width: 60%;
+  margin: 2rem;
+  margin-top: 6rem;
+}
+
+#hero {
+  height: 60%;
+  width: 85%;
+  margin: auto;
+  background-color: var(--pale-grey);
+}
+
+#social-footer {
+  width: 20%;
+  height: 4rem;
+  margin-top: 4rem;
+  position: absolute;
+  right: 8rem;
+  background-color: var(--pale-grey);
+  opacity: 0.5;
+}
