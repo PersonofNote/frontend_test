@@ -145,6 +145,14 @@ body {
   margin: 1rem;
 }
 
+.list-group-item {
+  padding: 0px;
+}
+
+.list-group p {
+  margin-right: 0px;
+}
+
 .article-thumbnail {
   width: 214px;
   height: 120px;
@@ -153,8 +161,6 @@ body {
 }
 
 .article-title-lore {
-  width: 458px;
-  height: 33px;
   font-family: OpenSans;
   font-size: 24px;
   font-weight: 600;
@@ -168,8 +174,6 @@ body {
 
 /* The color on this is outside of the palette */
 .Lorem-ipsum-dolor-si {
-  width: 514px;
-  height: 78px;
   font-family: OpenSans;
   font-size: 19px;
   font-weight: normal;
