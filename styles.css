@@ -210,8 +210,11 @@ margin-left: 40%;
 
 .button {
   border: 1px solid var(--sapphire);
+  padding: 10px;
   width: 80%;
   margin: auto;
+  margin-top: 20px;
+  margin-left: 20%;
 }
 
 .button a {

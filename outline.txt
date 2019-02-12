@@ -28,6 +28,9 @@ Left undone:
 -Articles:
 	-Add media queries that replace images with the highest quality/performance ratio
 
+-Event cards:
+	- Fix buttons
+
 -Footer:
 	-Properly spread content to fill remaining space
 	-Get real images
